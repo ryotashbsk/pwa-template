@@ -1,0 +1,15 @@
+{
+  "name": "SITE NAME",
+  "short_name": "SITE NAME",
+  "theme_color": "#a4bbd3",
+  "background_color": "#fff",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/?utm_source=homescreen",
+  "icons": [
+    { "src": "/icon-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512x512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/maskable-icon-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" }
+  ]
+}
